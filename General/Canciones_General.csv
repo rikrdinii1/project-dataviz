@@ -1,0 +1,21 @@
+,Unnamed: 0,Tipo de Album,Nombre del Album,Tipo de Album.1,Duracion Cancion en MS,Explicita o No,id,Nombre Cancion,Popularidad Cancion,Duracion Cancion en MIN,ID Playlist,ID Artista,Nombre Artista,Usuario
+0,0,single,Dibújame,album,236932,False,0RKglZdTQ7BLrs6vplb2qm,Dibújame,70,3.9488666666666665,6yk3BrGrCQ4TMCutpuIHXS,1FCItwxfRieMGhR0eRxotU,Rich Vagos,Brenda
+1,1,single,Dibújame,album,236932,False,0RKglZdTQ7BLrs6vplb2qm,Dibújame,70,3.9488666666666665,6yk3BrGrCQ4TMCutpuIHXS,0zfvfy9XlborSqXNRhi8Bk,Samantha Barrón,Brenda
+2,2,single,Dibújame,album,236932,False,0RKglZdTQ7BLrs6vplb2qm,Dibújame,70,3.9488666666666665,6yk3BrGrCQ4TMCutpuIHXS,1cUpGtXcSQsovNYEZOQgOG,Nanpa Básico,Brenda
+3,3,single,Pa' Olvidarme De Ella,album,227233,True,1cVlW9WQiGlFdWUXFdFZGh,Pa' Olvidarme De Ella,84,3.7872166666666662,6yk3BrGrCQ4TMCutpuIHXS,4bw2Am3p9ji3mYsXNXtQcd,Piso 21,Brenda
+4,4,single,Pa' Olvidarme De Ella,album,227233,True,1cVlW9WQiGlFdWUXFdFZGh,Pa' Olvidarme De Ella,84,3.7872166666666662,6yk3BrGrCQ4TMCutpuIHXS,0XwVARXT135rw8lyw1EeWP,Christian Nodal,Brenda
+5,5,album,Playa Sax,album,144018,False,3Fc7UXQiievrLVVxmqCYFa,Havana (Sax Version),34,2.4003,6yk3BrGrCQ4TMCutpuIHXS,4wAnP6TlcSkM1KVwkmSEfb,Ernesto Tapia,Brenda
+6,6,album,Tattoos (Deluxe Edition),album,193295,False,4B4zDmbHdkXZ1wUJv1yKFy,Wiggle (feat. Snoop Dogg),68,3.221583333333333,6yk3BrGrCQ4TMCutpuIHXS,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Brenda
+7,7,album,Tattoos (Deluxe Edition),album,193295,False,4B4zDmbHdkXZ1wUJv1yKFy,Wiggle (feat. Snoop Dogg),68,3.221583333333333,6yk3BrGrCQ4TMCutpuIHXS,7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,Brenda
+8,8,album,Dos Necios de Verdad,album,306413,False,53wqj8xuyBZIpk8Ubp9gFp,Será,0,5.106883333333333,6yk3BrGrCQ4TMCutpuIHXS,3C6Jn2YYPlZoe7pBPQl845,Raúl Ornelas,Brenda
+9,9,album,Dos Necios de Verdad,album,306413,False,53wqj8xuyBZIpk8Ubp9gFp,Será,0,5.106883333333333,6yk3BrGrCQ4TMCutpuIHXS,6genEcweKnEZ92TZvdeLFl,Edgar Oceransky,Brenda
+10,10,single,10 A.M.,album,210240,False,6m7iROft03ArIACgwVjL72,10 A.M.,0,3.5039999999999996,6yk3BrGrCQ4TMCutpuIHXS,6IdtcAwaNVAggwd6sCKgTI,Zoé,Brenda
+11,11,single,Hello,album,295493,False,0ENSn4fwAbCGeFGVUbXEU3,Hello,61,4.924883333333334,6yk3BrGrCQ4TMCutpuIHXS,4dpARuHxo51G3z768sgnrY,Adele,Brenda
+12,0,album,Sigh No More,album,280653,False,1lO8VQK74G6Bvvf05BH4o5,Dust Bowl Dance,40,4.67755,1ayJnO4tsfmdDgCrb9GeVX,3gd8FJtBJtkRxdfbTu19U2,Mumford & Sons,Ricardo
+13,1,single,Johannesburg,album,267946,False,3BqDKQg8onwppXlPw4SYnZ,There Will Be Time,58,4.465766666666667,1ayJnO4tsfmdDgCrb9GeVX,3gd8FJtBJtkRxdfbTu19U2,Mumford & Sons,Ricardo
+14,2,single,Johannesburg,album,267946,False,3BqDKQg8onwppXlPw4SYnZ,There Will Be Time,58,4.465766666666667,1ayJnO4tsfmdDgCrb9GeVX,49z6oAiD2RpyUf5yLJs7Nf,Baaba Maal,Ricardo
+15,3,album,El Mar No Cesa- Edición Especial,album,248986,False,6pAvXn45z0sktftypuEEzt,Héroe de leyenda,63,4.149766666666666,1ayJnO4tsfmdDgCrb9GeVX,3qAPxVwIQRBuz5ImPUxpZT,Heroes Del Silencio,Ricardo
+16,4,album,Avalancha,album,327426,False,4vkSJSyPddHwL7v3l1cuRf,La chispa adecuada (Bendecida 3),64,5.4571,1ayJnO4tsfmdDgCrb9GeVX,3qAPxVwIQRBuz5ImPUxpZT,Heroes Del Silencio,Ricardo
+17,5,album,Finisterra,album,296751,False,02dphTJYUQ9pmdNC52iyOz,Fiesta Pagana,68,4.94585,1ayJnO4tsfmdDgCrb9GeVX,5ZNxiPcbKgaNcBrERMpqeu,Mägo de Oz,Ricardo
+18,6,album,La Leyenda De La Mancha,album,251681,False,19vhfSUgVJO2enJ6XidUGO,Molinos De Viento,67,4.194683333333334,1ayJnO4tsfmdDgCrb9GeVX,5ZNxiPcbKgaNcBrERMpqeu,Mägo de Oz,Ricardo
+19,7,album,Finisterra,album,313097,False,0dQPkfweyWDzZ20Auq3F14,La danza del fuego,60,5.218283333333333,1ayJnO4tsfmdDgCrb9GeVX,5ZNxiPcbKgaNcBrERMpqeu,Mägo de Oz,Ricardo
