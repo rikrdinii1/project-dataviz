@@ -1,17 +1,20 @@
 ,Unnamed: 0,Genero,ID Artista,Nombre Artista,Popularidad,Total de Seguidores,Usuario
-0,0,"['colombian pop', 'latin', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino']",4bw2Am3p9ji3mYsXNXtQcd,Piso 21,79,6347623,Brenda
-1,1,"['british soul', 'pop', 'pop soul', 'uk pop']",4dpARuHxo51G3z768sgnrY,Adele,83,24528811,Brenda
-2,2,"['cantautor', 'latin pop', 'trova', 'trova mexicana']",3C6Jn2YYPlZoe7pBPQl845,Raúl Ornelas,53,124195,Brenda
-3,3,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,87,8556355,Brenda
-4,4,"['mariachi', 'nuevo regional mexicano', 'ranchera', 'regional mexican']",0XwVARXT135rw8lyw1EeWP,Christian Nodal,86,5259430,Brenda
-5,5,"['mexican hip hop', 'r&b en espanol']",0zfvfy9XlborSqXNRhi8Bk,Samantha Barrón,62,52770,Brenda
-6,6,"['latin alternative', 'latin rock', 'mexican rock', 'morelos indie', 'rock en espanol']",6IdtcAwaNVAggwd6sCKgTI,Zoé,73,3204993,Brenda
-7,7,"['colombian hip hop', 'mexican hip hop']",1cUpGtXcSQsovNYEZOQgOG,Nanpa Básico,72,861375,Brenda
-8,8,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,85,6421342,Brenda
-9,9,"['cantautor', 'latin arena pop', 'latin pop', 'nueva cancion', 'trova', 'trova mexicana']",6genEcweKnEZ92TZvdeLFl,Edgar Oceransky,55,123438,Brenda
-10,10,[],4wAnP6TlcSkM1KVwkmSEfb,Ernesto Tapia,40,457,Brenda
-11,11,"['mexican hip hop', 'perreo']",1FCItwxfRieMGhR0eRxotU,Rich Vagos,64,65974,Brenda
-12,0,"['celtic metal', 'medieval rock', 'rock en espanol', 'spanish folk metal', 'spanish metal']",5ZNxiPcbKgaNcBrERMpqeu,Mägo de Oz,69,2501165,Ricardo
-13,1,"['latin alternative', 'latin rock', 'musica aragonesa', 'rock en espanol', 'spanish rock']",3qAPxVwIQRBuz5ImPUxpZT,Heroes Del Silencio,67,1528582,Ricardo
-14,2,"['afropop', 'desert blues', 'griot', 'mbalax', 'musique peule', 'world']",49z6oAiD2RpyUf5yLJs7Nf,Baaba Maal,52,49797,Ricardo
-15,3,"['modern folk rock', 'modern rock', 'stomp and holler', 'uk americana']",3gd8FJtBJtkRxdfbTu19U2,Mumford & Sons,76,5893067,Ricardo
+0,0,[],4wAnP6TlcSkM1KVwkmSEfb,Ernesto Tapia,40,460,Brenda
+1,1,"['british soul', 'pop', 'pop soul', 'uk pop']",4dpARuHxo51G3z768sgnrY,Adele,83,24563367,Brenda
+2,2,"['colombian hip hop', 'mexican hip hop']",1cUpGtXcSQsovNYEZOQgOG,Nanpa Básico,72,864098,Brenda
+3,3,"['mariachi', 'nuevo regional mexicano', 'ranchera', 'regional mexican']",0XwVARXT135rw8lyw1EeWP,Christian Nodal,86,5282121,Brenda
+4,4,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,85,6427914,Brenda
+5,5,"['mexican hip hop', 'perreo']",1FCItwxfRieMGhR0eRxotU,Rich Vagos,64,66437,Brenda
+6,6,"['mexican hip hop', 'r&b en espanol']",0zfvfy9XlborSqXNRhi8Bk,Samantha Barrón,62,53018,Brenda
+7,7,"['cantautor', 'latin pop', 'trova', 'trova mexicana']",3C6Jn2YYPlZoe7pBPQl845,Raúl Ornelas,53,124299,Brenda
+8,8,"['colombian pop', 'latin', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino']",4bw2Am3p9ji3mYsXNXtQcd,Piso 21,79,6356333,Brenda
+9,9,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,87,8566945,Brenda
+10,10,"['latin alternative', 'latin rock', 'mexican rock', 'morelos indie', 'rock en espanol']",6IdtcAwaNVAggwd6sCKgTI,Zoé,73,3208068,Brenda
+11,11,"['cantautor', 'latin arena pop', 'latin pop', 'nueva cancion', 'trova', 'trova mexicana']",6genEcweKnEZ92TZvdeLFl,Edgar Oceransky,55,123509,Brenda
+12,0,"['la pop', ""women's music""]",0J7U24vlOOIeMpuaO6Q85A,LP,71,1901266,Ricardo
+13,1,"['latin alternative', 'latin rock', 'musica aragonesa', 'rock en espanol', 'spanish rock']",3qAPxVwIQRBuz5ImPUxpZT,Heroes Del Silencio,68,1530135,Ricardo
+14,2,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",49qiE8dj4JuNdpYGRPdKbF,Stone Sour,69,2091821,Ricardo
+15,3,"['modern folk rock', 'modern rock', 'stomp and holler', 'uk americana']",3gd8FJtBJtkRxdfbTu19U2,Mumford & Sons,76,5895140,Ricardo
+16,4,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol', 'rock urbano mexicano']",7fFzUTQmuK6dcxov1opn5Q,La Castañeda,49,286422,Ricardo
+17,5,"['afropop', 'desert blues', 'griot', 'mbalax', 'musique peule', 'world']",49z6oAiD2RpyUf5yLJs7Nf,Baaba Maal,52,49860,Ricardo
+18,6,"['album rock', 'australian rock', 'hard rock', 'rock']",711MCceyCBcFnzjGY4Q7Un,AC/DC,85,17129975,Ricardo

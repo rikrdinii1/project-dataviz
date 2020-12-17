@@ -1,9 +1,23 @@
-,Tipo de Album,Nombre del Album,Tipo de Album,Duracion Cancion en MS,Explicita o No,id,Nombre Cancion,Popularidad Cancion,Duracion Cancion en MIN,ID Playlist,ID Artista,Nombre Artista
-0,album,Sigh No More,album,280653,False,1lO8VQK74G6Bvvf05BH4o5,Dust Bowl Dance,40,4.67755,1ayJnO4tsfmdDgCrb9GeVX,3gd8FJtBJtkRxdfbTu19U2,Mumford & Sons
-1,single,Johannesburg,album,267946,False,3BqDKQg8onwppXlPw4SYnZ,There Will Be Time,58,4.465766666666667,1ayJnO4tsfmdDgCrb9GeVX,3gd8FJtBJtkRxdfbTu19U2,Mumford & Sons
-2,single,Johannesburg,album,267946,False,3BqDKQg8onwppXlPw4SYnZ,There Will Be Time,58,4.465766666666667,1ayJnO4tsfmdDgCrb9GeVX,49z6oAiD2RpyUf5yLJs7Nf,Baaba Maal
-3,album,El Mar No Cesa- Edición Especial,album,248986,False,6pAvXn45z0sktftypuEEzt,Héroe de leyenda,63,4.149766666666666,1ayJnO4tsfmdDgCrb9GeVX,3qAPxVwIQRBuz5ImPUxpZT,Heroes Del Silencio
-4,album,Avalancha,album,327426,False,4vkSJSyPddHwL7v3l1cuRf,La chispa adecuada (Bendecida 3),64,5.4571,1ayJnO4tsfmdDgCrb9GeVX,3qAPxVwIQRBuz5ImPUxpZT,Heroes Del Silencio
-5,album,Finisterra,album,296751,False,02dphTJYUQ9pmdNC52iyOz,Fiesta Pagana,68,4.94585,1ayJnO4tsfmdDgCrb9GeVX,5ZNxiPcbKgaNcBrERMpqeu,Mägo de Oz
-6,album,La Leyenda De La Mancha,album,251681,False,19vhfSUgVJO2enJ6XidUGO,Molinos De Viento,67,4.194683333333334,1ayJnO4tsfmdDgCrb9GeVX,5ZNxiPcbKgaNcBrERMpqeu,Mägo de Oz
-7,album,Finisterra,album,313097,False,0dQPkfweyWDzZ20Auq3F14,La danza del fuego,60,5.218283333333333,1ayJnO4tsfmdDgCrb9GeVX,5ZNxiPcbKgaNcBrERMpqeu,Mägo de Oz
+,Tipo de Album,Nombre del Album,Tipo de Album,Duracion Cancion en MS,Explicita o No,id,Nombre Cancion,Popularidad Cancion,Duracion Cancion en MIN,ID Playlist
+0,album,Sigh No More,album,280653,False,1lO8VQK74G6Bvvf05BH4o5,Dust Bowl Dance,40,4.67755,1ayJnO4tsfmdDgCrb9GeVX
+1,single,Johannesburg,album,267946,False,3BqDKQg8onwppXlPw4SYnZ,There Will Be Time,58,4.465766666666667,1ayJnO4tsfmdDgCrb9GeVX
+2,album,Avalancha,album,327426,False,4vkSJSyPddHwL7v3l1cuRf,La chispa adecuada (Bendecida 3),64,5.4571,1ayJnO4tsfmdDgCrb9GeVX
+3,album,Lost on You,album,268105,False,2LIh4uzqq9cXMPzzmcToHl,Lost on You,76,4.468416666666666,1ayJnO4tsfmdDgCrb9GeVX
+4,album,En Vivo 25 Aniversario,album,318520,False,53gDb3nG9sMytzVzD6UCMb,Cenit,43,5.308666666666666,1ayJnO4tsfmdDgCrb9GeVX
+5,album,Come What(ever) May [10th Anniversary Edition],album,282946,False,5NeIONQWJ25uPylJBJiO4c,Through Glass,73,4.715766666666667,1ayJnO4tsfmdDgCrb9GeVX
+6,compilation,Bonfire,album,316733,False,3EQjW604d5Cfbn8FnZmqyF,It's a Long Way to the Top (If You Wanna Rock 'n' Roll),39,5.278883333333333,1ayJnO4tsfmdDgCrb9GeVX
+7,album,Zaz,album,215933,False,734dz1YaFITwawPpM25fSt,Je veux,69,3.598883333333333,1ayJnO4tsfmdDgCrb9GeVX
+8,single,The Kids Are Coming,album,209438,False,5ZULALImTm80tzUbYQYM9d,Dance Monkey,81,3.4906333333333333,1ayJnO4tsfmdDgCrb9GeVX
+9,album,Dire Straits,album,348400,False,37Tmv4NnfQeb0ZgUC4fOJj,Sultans Of Swing,81,5.806666666666667,1ayJnO4tsfmdDgCrb9GeVX
+10,album,Bad Blood,album,214147,False,6fNhZRFEkBfgW39W3wKARJ,Pompeii,73,3.5691166666666665,1ayJnO4tsfmdDgCrb9GeVX
+11,album,Led Zeppelin IV (Deluxe Edition),album,482830,False,5CQ30WqJwcep0pYcV4AMNc,Stairway to Heaven - Remaster,79,8.047166666666667,1ayJnO4tsfmdDgCrb9GeVX
+12,album,Use Your Illusion I,album,536066,False,3YRCqOhFifThpSRFJ1VWFM,November Rain,81,8.934433333333333,1ayJnO4tsfmdDgCrb9GeVX
+13,album,Overexposed (Deluxe),album,219466,False,4XNrMwGx1SqP01sqkGTDmo,One More Night,67,3.657766666666667,1ayJnO4tsfmdDgCrb9GeVX
+14,album,Wanted on Voyage,album,200720,False,7GJClzimvMSghjcrKxuf1M,Budapest,37,3.3453333333333335,1ayJnO4tsfmdDgCrb9GeVX
+15,compilation,Video Rola,album,229800,False,4mQwxVqjcHdUEfwSWEOopx,Amargo Adiós,64,3.83,1ayJnO4tsfmdDgCrb9GeVX
+16,album,Un Panteon Muy Vivo,album,389723,False,5aLGdqM8EbHC3B1iKWKDIJ,La Dosis Perfecta,42,6.495383333333334,1ayJnO4tsfmdDgCrb9GeVX
+17,album,Sounds Of The Universe,album,193680,False,3Y8pg3FF5FivDAboCKnGOP,Wrong,0,3.228,1ayJnO4tsfmdDgCrb9GeVX
+18,compilation,"Electronic Music for Study (chill brain, study hard, brain food, perfect concentration, focus, study music , musica electronica para estudiar,concentrarse y memorizar)",album,789000,False,5IozbYa5blWCyX4gP0cMOQ,Algorithms,0,13.15,1ayJnO4tsfmdDgCrb9GeVX
+19,album,Anthology 1970-1994,album,190893,False,5SJXf9SpztjrAyr7SsX8od,Low Rider,0,3.18155,1ayJnO4tsfmdDgCrb9GeVX
+20,album,Songs of Faith and Devotion (2006 Remaster),album,276080,False,1Ob57NqUydp5cC3FCNV4Gy,I Feel You - 2006 Remaster,46,4.601333333333334,1ayJnO4tsfmdDgCrb9GeVX
+21,album,Good Company,album,245320,False,4eMxLQtSdgxdA1Hs6D2YuN,In Hell I'll Be in Good Company,63,4.088666666666667,1ayJnO4tsfmdDgCrb9GeVX
