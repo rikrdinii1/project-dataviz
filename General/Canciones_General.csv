@@ -1,7 +1,7 @@
 ,Unnamed: 0,Tipo de Album,Nombre del Album,Tipo de Album.1,Duracion Cancion en MS,Explicita o No,id,Nombre Cancion,Popularidad Cancion,Duracion Cancion en MIN,ID Playlist,Usuario
 0,0,single,Dibújame,album,236932,False,0RKglZdTQ7BLrs6vplb2qm,Dibújame,71,3.9488666666666665,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 1,1,single,Pa' Olvidarme De Ella,album,227233,True,1cVlW9WQiGlFdWUXFdFZGh,Pa' Olvidarme De Ella,84,3.7872166666666662,6yk3BrGrCQ4TMCutpuIHXS,Brenda
-2,2,album,Playa Sax,album,144018,False,3Fc7UXQiievrLVVxmqCYFa,Havana (Sax Version),34,2.4003,6yk3BrGrCQ4TMCutpuIHXS,Brenda
+2,2,album,Playa Sax,album,144018,False,3Fc7UXQiievrLVVxmqCYFa,Havana (Sax Version),35,2.4003,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 3,3,album,Tattoos (Deluxe Edition),album,193295,False,4B4zDmbHdkXZ1wUJv1yKFy,Wiggle (feat. Snoop Dogg),68,3.221583333333333,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 4,4,album,Dos Necios de Verdad,album,306413,False,53wqj8xuyBZIpk8Ubp9gFp,Será,0,5.106883333333333,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 5,5,single,10 A.M.,album,210240,False,6m7iROft03ArIACgwVjL72,10 A.M.,0,3.5039999999999996,6yk3BrGrCQ4TMCutpuIHXS,Brenda
@@ -13,15 +13,15 @@
 11,11,single,Ella Se Mueve,album,234910,False,7r9JHOYtIfnviFQD8i6L2l,Ella Se Mueve,32,3.9151666666666665,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 12,12,single,Trumpets,album,206400,False,6Ovnso88y3EQqSGpHANYtr,Trumpets - Radio Mix,0,3.44,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 13,13,album,Fore!,album,245466,False,648BMGrt98kUbLo24A4vgj,Hip To Be Square,65,4.0911,6yk3BrGrCQ4TMCutpuIHXS,Brenda
-14,14,album,30 años y un día,album,205826,False,2b4YmTAw00De49Pdbm3P6S,Visite nuestro bar - Remaster 2015,43,3.430433333333333,6yk3BrGrCQ4TMCutpuIHXS,Brenda
+14,14,album,30 años y un día,album,205826,False,2b4YmTAw00De49Pdbm3P6S,Visite nuestro bar - Remaster 2015,44,3.430433333333333,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 15,15,album,El Objeto Antes Llamado Disco,album,254173,False,2GvI8j0DaIAGvubj5NinEF,Aprovéchate,61,4.2362166666666665,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 16,16,compilation,Me Verás Volver (Hits & Más),album,292266,False,5wCUdBsdubZ3ZFoJoRsMrY,Persiana Americana - Remasterizado 2007,65,4.8711,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 17,17,album,Las Consecuencias,album,233960,False,73KNzyiG6xM6xguaLe4ICj,Frente a frente (feat. Tulsa),65,3.899333333333333,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 18,18,album,Fabricando Fantasías,album,272266,False,5bkWgrKyNhMcriQP3CrHEA,Fabricando Fantasías - Salsa Version,65,4.537766666666666,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 19,19,single,Vete,album,206546,False,3IUoi4GkPLZY79QGoEHfF0,Vete,43,3.442433333333333,6yk3BrGrCQ4TMCutpuIHXS,Brenda
 20,20,album,Que Hago Aquí?,album,221600,False,6FmwfLbteUqHfcz10Ab9yY,Dr. Psiquiatra,61,3.693333333333333,6yk3BrGrCQ4TMCutpuIHXS,Brenda
-21,21,single,Verano Azul,album,190560,False,0dgwWXkfcWyB2a2qTgEc0F,Verano Azul,66,3.176,6yk3BrGrCQ4TMCutpuIHXS,Brenda
-22,0,album,Sigh No More,album,280653,False,1lO8VQK74G6Bvvf05BH4o5,Dust Bowl Dance,40,4.67755,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
+21,21,single,Verano Azul,album,190560,False,0dgwWXkfcWyB2a2qTgEc0F,Verano Azul,67,3.176,6yk3BrGrCQ4TMCutpuIHXS,Brenda
+22,0,album,Sigh No More,album,280653,False,1lO8VQK74G6Bvvf05BH4o5,Dust Bowl Dance,41,4.67755,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
 23,1,single,Johannesburg,album,267946,False,3BqDKQg8onwppXlPw4SYnZ,There Will Be Time,58,4.465766666666667,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
 24,2,album,Avalancha,album,327426,False,4vkSJSyPddHwL7v3l1cuRf,La chispa adecuada (Bendecida 3),64,5.4571,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
 25,3,album,Lost on You,album,268105,False,2LIh4uzqq9cXMPzzmcToHl,Lost on You,76,4.468416666666666,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
@@ -35,7 +35,7 @@
 33,11,album,Led Zeppelin IV (Deluxe Edition),album,482830,False,5CQ30WqJwcep0pYcV4AMNc,Stairway to Heaven - Remaster,79,8.047166666666667,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
 34,12,album,Use Your Illusion I,album,536066,False,3YRCqOhFifThpSRFJ1VWFM,November Rain,81,8.934433333333333,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
 35,13,album,Overexposed (Deluxe),album,219466,False,4XNrMwGx1SqP01sqkGTDmo,One More Night,67,3.657766666666667,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
-36,14,album,Wanted on Voyage,album,200720,False,7GJClzimvMSghjcrKxuf1M,Budapest,37,3.345333333333333,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
+36,14,album,Wanted on Voyage,album,200720,False,7GJClzimvMSghjcrKxuf1M,Budapest,36,3.345333333333333,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
 37,15,compilation,Video Rola,album,229800,False,4mQwxVqjcHdUEfwSWEOopx,Amargo Adiós,64,3.83,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
 38,16,album,Un Panteon Muy Vivo,album,389723,False,5aLGdqM8EbHC3B1iKWKDIJ,La Dosis Perfecta,42,6.495383333333334,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
 39,17,album,Sounds Of The Universe,album,193680,False,3Y8pg3FF5FivDAboCKnGOP,Wrong,0,3.228,1ayJnO4tsfmdDgCrb9GeVX,Ricardo
